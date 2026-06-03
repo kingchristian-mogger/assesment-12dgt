@@ -1,0 +1,45 @@
+<mxfile host="65bd71144e">
+    <diagram id="0ZKghZqITnwb_xXqFHWa" name="Page-1">
+        <mxGraphModel dx="1367" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="6" value="Window Title" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-170" y="510" width="440" height="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="540" width="410" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Show progress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="670" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="record session" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="620" y="670" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&amp;lt;-- Choose tab" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.marginRect2;rectMarginLeft=67;strokeColor=#666666;gradientColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="415" y="880" width="400" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Tab 1" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="13">
+                    <mxGeometry width="60" height="25" relative="1" as="geometry">
+                        <mxPoint y="10" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="Tab 2" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#ffffff;strokeColor=#008cff;fillColor=#008cff;" vertex="1" parent="13">
+                    <mxGeometry width="60" height="25" relative="1" as="geometry">
+                        <mxPoint y="40" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="16" value="Tab 3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="13">
+                    <mxGeometry width="60" height="25" relative="1" as="geometry">
+                        <mxPoint y="70" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.leftButton;rSize=5;strokeColor=#008cff;fillColor=#008cff;resizeHeight=1;movable=0;deletable=0;" vertex="1" parent="13">
+                    <mxGeometry width="7" height="200" relative="1" as="geometry">
+                        <mxPoint x="60" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
